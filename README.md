@@ -1,4 +1,5 @@
 # Artist_Personal_Website
+<<<<<<< HEAD
 
 ### Objects
 The object of this project is to build a artist's personal website that showcase some artworks.
@@ -16,3 +17,5 @@ The object of this project is to build a artist's personal website that showcase
 - Database: Linux, Docker, MySQL
 - Back-end: PHP
 - Frond-end: HTML, CSS, JavaScript, Vue.js
+=======
+>>>>>>> 8ffdc175eea818075474e173be8edaa176cd787b
